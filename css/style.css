@@ -217,7 +217,7 @@ p {
 #info-page .container {
     display: table-cell;
     width: 100%;
-    padding-top: 2%;
+    padding-top: 1%;
     max-width: none;
     position: relative;
 }
@@ -235,18 +235,19 @@ p {
 }
 
 .section {
-    width: 100%;
+    width: 20%;
     text-align: center;
     position: relative;
     display: inline-block;
     padding: 4% 0;
+    margin-bottom: 150px;
 }
 
 .section .section-img {
-    padding: 1%;
+    margin-top: 20px;
     height: auto;
     width: auto;
-    display: inline-block;
+    display: block;
     vertical-align: middle;
 }
 
